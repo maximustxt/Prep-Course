@@ -71,9 +71,7 @@ Usando lo que aprendiste de HTML vas a crear un nuevo documento dentro de la car
 * Tu foto
 * Hobbies
 
-Además agregá una sección más donde expliques por qué estás estudiando esta carrera y cuáles son tus expectativas al finalizar la carrera.
-
-Subir también este archivo a su repositorio de github
+Además agregá una sección más donde expliques por qué estás estudiando esta carrera y cuáles son tus expectativas al finalizar la carrera. Subir también este archivo a su repositorio de github
 
 ```
 
