@@ -10,7 +10,9 @@ return array[0];
 function devolverUltimoElemento(array) {
   // Devuelve el último elemento de un array
   // Tu código:
-  return ( array [array.length - 1 ]);
+
+  return array[array.length - 1];
+   
 }
 
 
@@ -285,7 +287,6 @@ function continueStatement(numero) {
   //Pista: usá el statement 'continue'
   // Tu código:
 var arregloNumero = [];
-var i = 0;
 var numeroX = numero 
 for (var i = 0; i<10; i++) {
   if (i === 5) {
